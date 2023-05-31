@@ -1,0 +1,8 @@
+title: DavidQF555
+email: davidfeng2003@gmail.com
+description: DavidQF555's Page
+github_username:  DavidQF555
+
+theme: minima
+plugins:
+  - jekyll-feed
